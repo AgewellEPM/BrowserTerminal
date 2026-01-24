@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/master.swiftdeps"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/SwiftTerm/Sources/Termcast/AsciicastFormat.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/AsciicastFormat.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/AsciicastFormat.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/AsciicastFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/AsciicastFormat.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/AsciicastFormat.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/SwiftTerm/Sources/Termcast/TermcastPlayer.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastPlayer.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastPlayer.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastPlayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastPlayer.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastPlayer.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/SwiftTerm/Sources/Termcast/TermcastRecorder.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastRecorder.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastRecorder.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastRecorder~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastRecorder.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/TermcastRecorder.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/SwiftTerm/Sources/Termcast/main.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/main.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/main.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/main.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/Termcast.build/main.dia"
+  }
+}

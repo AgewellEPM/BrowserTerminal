@@ -1,0 +1,211 @@
+{
+  "" : {
+    "const-values" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.swiftconstvalues",
+    "dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.d",
+    "diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.dia",
+    "emit-module-dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary-emit-module.dia",
+    "pch" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.swiftdeps"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppCommands.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppCommands.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppCommands.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppCommands.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppCoordinator.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppCoordinator.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppDelegate.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/BrowserTerminalApp.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminalApp.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminalApp.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminalApp.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/MainWindow.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/MainWindow.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/MainWindow.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/MainWindow.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Bridge/Services/BridgeService.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BridgeService.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BridgeService.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BridgeService.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Bridge/Services/JavaScriptBridge.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/JavaScriptBridge.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/JavaScriptBridge.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/JavaScriptBridge.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserContainer.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserContainer.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserContainer.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserContainer.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserToolbar.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserToolbar.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserToolbar.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserToolbar.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserWebView.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserWebView.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserWebView.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserWebView.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/NavigationControls.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/NavigationControls.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/NavigationControls.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/NavigationControls.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/TabSelector.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TabSelector.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TabSelector.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TabSelector.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/TerminalIntegrationButton.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalIntegrationButton.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalIntegrationButton.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalIntegrationButton.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/URLField.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/URLField.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/URLField.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/URLField.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Models/BrowserTab.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTab.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTab.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTab.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/BrowserManager.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserManager.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserManager.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserManager.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/BrowserToolbarViewModel.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserToolbarViewModel.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserToolbarViewModel.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserToolbarViewModel.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/BrowserWebViewCoordinator.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserWebViewCoordinator.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserWebViewCoordinator.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserWebViewCoordinator.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/WebViewFactory.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/WebViewFactory.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/WebViewFactory.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/WebViewFactory.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/WebViewRegistry.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/WebViewRegistry.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/WebViewRegistry.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/WebViewRegistry.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Settings/Models/AppSettings.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/AppSettings.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Shared/Utils/ControlCharacterMapper.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ControlCharacterMapper.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ControlCharacterMapper.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ControlCharacterMapper.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/CustomTerminalTextView.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/CustomTerminalTextView.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/CustomTerminalTextView.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/CustomTerminalTextView.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/SwiftTermView.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/SwiftTermView.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/SwiftTermView.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/SwiftTermView.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalContainer.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalContainer.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalContainer.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalContainer.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalTabBar.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTabBar.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTabBar.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTabBar.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalTextView.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTextView.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTextView.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTextView.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalView.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalView.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalView.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalView.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Models/TerminalSession.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalSession.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalSession.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalSession.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/ANSIColorPalette.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIColorPalette.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIColorPalette.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIColorPalette.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/ANSIParser.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIParser.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIParser.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIParser.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/ANSIStyleProcessor.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIStyleProcessor.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIStyleProcessor.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/ANSIStyleProcessor.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/PTYController.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/PTYController.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/PTYController.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/PTYController.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalInputHandler.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalInputHandler.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalInputHandler.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalInputHandler.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalKeyboardHandler.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalKeyboardHandler.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalKeyboardHandler.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalKeyboardHandler.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalManager.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalManager.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalManager.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalManager.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalOutputProcessor.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalOutputProcessor.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalOutputProcessor.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalOutputProcessor.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalOutputRenderer.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalOutputRenderer.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalOutputRenderer.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalOutputRenderer.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalScrollViewFactory.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalScrollViewFactory.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalScrollViewFactory.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalScrollViewFactory.o"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalTextViewCoordinator.swift" : {
+    "index-unit-output-path" : "/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTextViewCoordinator.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTextViewCoordinator.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/TerminalTextViewCoordinator.o"
+  }
+}

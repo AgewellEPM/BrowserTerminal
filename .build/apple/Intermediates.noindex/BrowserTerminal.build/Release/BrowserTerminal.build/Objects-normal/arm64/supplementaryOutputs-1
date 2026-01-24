@@ -1,0 +1,11 @@
+{
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppCommands.swift" : {
+    "abi-baseline-json" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal.abi.json",
+    "const-values" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.swiftconstvalues",
+    "dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.d",
+    "diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal-primary.dia",
+    "swiftdoc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal.swiftdoc",
+    "swiftmodule" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal.swiftmodule",
+    "swiftsourceinfo" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/BrowserTerminal.build/Release/BrowserTerminal.build/Objects-normal/arm64/BrowserTerminal.swiftsourceinfo"
+  }
+}

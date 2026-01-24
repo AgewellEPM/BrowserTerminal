@@ -1,0 +1,16 @@
+{
+  "source": "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/URLField.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter URL",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

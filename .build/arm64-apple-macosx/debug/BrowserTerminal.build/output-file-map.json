@@ -1,0 +1,285 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/master.swiftdeps"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppCommands.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCommands.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCommands.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCommands~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCommands.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCommands.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppCoordinator.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCoordinator.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCoordinator.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCoordinator.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppCoordinator.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppDelegate.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppDelegate.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppDelegate.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/BrowserTerminalApp.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTerminalApp.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTerminalApp.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTerminalApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTerminalApp.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTerminalApp.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/MainWindow.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/MainWindow.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/MainWindow.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/MainWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/MainWindow.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/MainWindow.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Bridge/Services/BridgeService.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BridgeService.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BridgeService.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BridgeService~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BridgeService.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BridgeService.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Bridge/Services/JavaScriptBridge.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/JavaScriptBridge.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/JavaScriptBridge.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/JavaScriptBridge~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/JavaScriptBridge.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/JavaScriptBridge.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserContainer.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserContainer.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserContainer.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserContainer.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserContainer.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserToolbar.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbar.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbar.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbar~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbar.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbar.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserWebView.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebView.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebView.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebView.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebView.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/NavigationControls.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/NavigationControls.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/NavigationControls.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/NavigationControls~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/NavigationControls.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/NavigationControls.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/TabSelector.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TabSelector.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TabSelector.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TabSelector~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TabSelector.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TabSelector.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/TerminalIntegrationButton.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalIntegrationButton.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalIntegrationButton.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalIntegrationButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalIntegrationButton.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalIntegrationButton.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/URLField.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/URLField.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/URLField.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/URLField~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/URLField.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/URLField.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Models/BrowserTab.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTab.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTab.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTab~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTab.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserTab.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/BrowserManager.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserManager.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserManager.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserManager.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserManager.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/BrowserToolbarViewModel.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbarViewModel.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbarViewModel.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbarViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbarViewModel.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserToolbarViewModel.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/BrowserWebViewCoordinator.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebViewCoordinator.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebViewCoordinator.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebViewCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebViewCoordinator.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/BrowserWebViewCoordinator.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/WebViewFactory.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewFactory.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewFactory.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewFactory.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewFactory.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Services/WebViewRegistry.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewRegistry.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewRegistry.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewRegistry.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/WebViewRegistry.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Settings/Models/AppSettings.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppSettings.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppSettings.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppSettings.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/AppSettings.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Shared/Utils/ControlCharacterMapper.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ControlCharacterMapper.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ControlCharacterMapper.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ControlCharacterMapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ControlCharacterMapper.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ControlCharacterMapper.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/CustomTerminalTextView.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/CustomTerminalTextView.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/CustomTerminalTextView.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/CustomTerminalTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/CustomTerminalTextView.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/CustomTerminalTextView.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/SwiftTermView.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/SwiftTermView.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/SwiftTermView.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/SwiftTermView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/SwiftTermView.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/SwiftTermView.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalContainer.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalContainer.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalContainer.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalContainer.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalContainer.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalTabBar.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTabBar.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTabBar.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTabBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTabBar.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTabBar.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalTextView.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextView.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextView.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextView.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextView.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalView.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalView.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalView.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalView.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalView.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Models/TerminalSession.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalSession.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalSession.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalSession.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalSession.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/ANSIColorPalette.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIColorPalette.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIColorPalette.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIColorPalette~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIColorPalette.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIColorPalette.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/ANSIParser.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIParser.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIParser.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIParser.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIParser.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/ANSIStyleProcessor.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIStyleProcessor.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIStyleProcessor.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIStyleProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIStyleProcessor.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/ANSIStyleProcessor.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/PTYController.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/PTYController.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/PTYController.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/PTYController~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/PTYController.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/PTYController.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalInputHandler.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalInputHandler.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalInputHandler.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalInputHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalInputHandler.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalInputHandler.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalKeyboardHandler.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalKeyboardHandler.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalKeyboardHandler.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalKeyboardHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalKeyboardHandler.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalKeyboardHandler.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalManager.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalManager.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalManager.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalManager.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalManager.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalOutputProcessor.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputProcessor.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputProcessor.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputProcessor.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputProcessor.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalOutputRenderer.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputRenderer.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputRenderer.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputRenderer.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalOutputRenderer.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalScrollViewFactory.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalScrollViewFactory.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalScrollViewFactory.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalScrollViewFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalScrollViewFactory.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalScrollViewFactory.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Services/TerminalTextViewCoordinator.swift": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextViewCoordinator.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextViewCoordinator.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextViewCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextViewCoordinator.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/debug/BrowserTerminal.build/TerminalTextViewCoordinator.dia"
+  }
+}

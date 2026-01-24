@@ -1,0 +1,145 @@
+{
+  "": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess.o",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/master.swiftdeps"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/API.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/API.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/API~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/API.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/API.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/AsyncBufferSequence.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncBufferSequence.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncBufferSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncBufferSequence.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncBufferSequence.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Buffer.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Buffer.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Buffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Buffer.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Buffer.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Configuration.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Configuration.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Configuration.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Configuration.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Error.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Error.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Error.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Error.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Execution.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Execution.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Execution~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Execution.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Execution.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/AsyncIO+Dispatch.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Dispatch.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Dispatch~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Dispatch.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Dispatch.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/AsyncIO+Linux.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Linux.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Linux~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Linux.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Linux.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/AsyncIO+Windows.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Windows.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Windows~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Windows.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/AsyncIO+Windows.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/Input.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/Output.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+BSD.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+BSD.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+BSD~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+BSD.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+BSD.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Darwin.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Darwin.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Darwin~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Darwin.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Darwin.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Linux.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Linux.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Linux~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Linux.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Linux.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Unix.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Unix.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Unix~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Unix.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Unix.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Windows.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Windows.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Windows~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Windows.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Subprocess+Windows.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Result.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Result.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Result.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Result.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Span+Subprocess.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+Subprocess.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+Subprocess~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+Subprocess.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+Subprocess.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/SubprocessFoundation/Input+Foundation.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input+Foundation.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input+Foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input+Foundation.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Input+Foundation.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/SubprocessFoundation/Output+Foundation.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output+Foundation.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output+Foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output+Foundation.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Output+Foundation.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/SubprocessFoundation/Span+SubprocessFoundation.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+SubprocessFoundation.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+SubprocessFoundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+SubprocessFoundation.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Span+SubprocessFoundation.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Teardown.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Teardown.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Teardown~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Teardown.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Teardown.dia"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Thread.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Thread.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Thread~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Thread.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/Thread.dia"
+  }
+}

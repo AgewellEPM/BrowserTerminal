@@ -1,0 +1,12 @@
+{
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-system/Sources/System/Errno.swift" : {
+    "abi-baseline-json" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage.abi.json",
+    "const-values" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage_Module-primary.swiftconstvalues",
+    "dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage_Module-primary.d",
+    "diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage_Module-primary.dia",
+    "objc-header" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage-Swift.h",
+    "swiftdoc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage.swiftdoc",
+    "swiftmodule" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage.swiftmodule",
+    "swiftsourceinfo" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/swift-system.build/Release/SystemPackage_Module.build/Objects-normal/arm64/SystemPackage.swiftsourceinfo"
+  }
+}

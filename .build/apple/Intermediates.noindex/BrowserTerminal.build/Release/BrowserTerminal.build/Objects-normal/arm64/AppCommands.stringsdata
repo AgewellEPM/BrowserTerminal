@@ -1,0 +1,72 @@
+{
+  "source": "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Core/AppCommands.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "View",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terminal",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Terminal Tab",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 6
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Browser Tab",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Toggle Full Screen",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Split",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Terminal",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Terminal",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 39
+        }
+      }
+    ]
+  },
+  "version": 1
+}

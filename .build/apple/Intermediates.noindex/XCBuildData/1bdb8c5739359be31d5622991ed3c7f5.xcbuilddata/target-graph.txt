@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'BrowserTerminal_-7DAC7E083F5836D1_PackageProduct' in project 'BrowserTerminal'
+Target 'BrowserTerminal_-7DAC7E083F5836D1_PackageProduct' in project 'BrowserTerminal' (no dependencies)

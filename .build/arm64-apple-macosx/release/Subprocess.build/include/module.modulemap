@@ -1,0 +1,3 @@
+module Subprocess {
+    header "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/Subprocess.build/include/Subprocess-Swift.h"
+}

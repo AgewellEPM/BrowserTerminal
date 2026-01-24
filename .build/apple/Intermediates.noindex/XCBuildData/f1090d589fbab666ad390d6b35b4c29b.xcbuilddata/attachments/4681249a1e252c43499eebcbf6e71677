@@ -1,0 +1,126 @@
+{
+  "" : {
+    "const-values" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary.swiftconstvalues",
+    "dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary.d",
+    "diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary.dia",
+    "emit-module-dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary-emit-module.dia",
+    "pch" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess_Module-primary.swiftdeps"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/API.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/API.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/API.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/API.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/AsyncBufferSequence.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncBufferSequence.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncBufferSequence.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncBufferSequence.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Buffer.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Buffer.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Buffer.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Buffer.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Configuration.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Configuration.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Configuration.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Configuration.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Error.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Error.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Error.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Error.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Execution.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Execution.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Execution.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Execution.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/AsyncIO+Dispatch.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Dispatch.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Dispatch.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Dispatch.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/AsyncIO+Linux.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Linux.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Linux.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Linux.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/AsyncIO+Windows.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Windows.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Windows.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/AsyncIO+Windows.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/Input.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Input.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Input.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Input.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/IO/Output.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Output.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Output.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Output.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+BSD.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+BSD.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+BSD.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+BSD.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Darwin.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Darwin.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Darwin.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Darwin.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Linux.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Linux.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Linux.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Linux.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Unix.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Unix.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Unix.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Unix.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Platforms/Subprocess+Windows.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Windows.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Windows.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Subprocess+Windows.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Result.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Result.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Result.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Result.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Span+Subprocess.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Span+Subprocess.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Span+Subprocess.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Span+Subprocess.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/SubprocessFoundation/Input+Foundation.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Input+Foundation.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Input+Foundation.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Input+Foundation.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/SubprocessFoundation/Output+Foundation.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Output+Foundation.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Output+Foundation.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Output+Foundation.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/SubprocessFoundation/Span+SubprocessFoundation.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Span+SubprocessFoundation.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Span+SubprocessFoundation.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Span+SubprocessFoundation.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Teardown.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Teardown.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Teardown.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Teardown.o"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/Thread.swift" : {
+    "index-unit-output-path" : "/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Thread.o",
+    "llvm-bc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Thread.bc",
+    "object" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/arm64/Thread.o"
+  }
+}

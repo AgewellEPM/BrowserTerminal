@@ -1,0 +1,12 @@
+{
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/SwiftTerm/Sources/SwiftTerm/Apple/AppleTerminalView.swift" : {
+    "abi-baseline-json" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm.abi.json",
+    "const-values" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm_Module-primary.swiftconstvalues",
+    "dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm_Module-primary.d",
+    "diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm_Module-primary.dia",
+    "objc-header" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm-Swift.h",
+    "swiftdoc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm.swiftdoc",
+    "swiftmodule" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm.swiftmodule",
+    "swiftsourceinfo" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/SwiftTerm.build/Release/SwiftTerm_Module.build/Objects-normal/x86_64/SwiftTerm.swiftsourceinfo"
+  }
+}

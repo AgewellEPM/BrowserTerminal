@@ -1,0 +1,16 @@
+{
+  "source": "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/BrowserContainer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No browser tab open",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 30
+        }
+      }
+    ]
+  },
+  "version": 1
+}

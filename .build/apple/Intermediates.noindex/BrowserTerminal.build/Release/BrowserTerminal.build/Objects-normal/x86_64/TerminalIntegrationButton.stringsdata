@@ -1,0 +1,24 @@
+{
+  "source": "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/TerminalIntegrationButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Send Page URL to Terminal",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 6
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy Terminal Output",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}

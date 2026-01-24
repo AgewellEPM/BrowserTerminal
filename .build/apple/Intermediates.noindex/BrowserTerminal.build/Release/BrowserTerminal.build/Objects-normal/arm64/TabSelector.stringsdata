@@ -1,0 +1,24 @@
+{
+  "source": "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Browser/Components/TabSelector.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Tab",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 27
+        }
+      }
+    ]
+  },
+  "version": 1
+}

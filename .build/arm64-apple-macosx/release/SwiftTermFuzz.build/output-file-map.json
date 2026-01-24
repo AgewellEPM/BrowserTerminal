@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/SwiftTermFuzz.d",
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/SwiftTermFuzz.o",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/master.swiftdeps"
+  },
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/SwiftTerm/Sources/SwiftTermFuzz/main.swift": {
+    "object": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main.swift.o",
+    "swiftmodule": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main.swiftdeps",
+    "diagnostics": "/Users/lukekist/BrowserTerminal/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main.dia"
+  }
+}

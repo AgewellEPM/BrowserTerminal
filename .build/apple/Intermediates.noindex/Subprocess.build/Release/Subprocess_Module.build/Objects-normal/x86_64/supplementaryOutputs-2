@@ -1,0 +1,12 @@
+{
+  "/Users/lukekist/BrowserTerminal/.build/checkouts/swift-subprocess/Sources/Subprocess/API.swift" : {
+    "abi-baseline-json" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess.abi.json",
+    "const-values" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess_Module-primary.swiftconstvalues",
+    "dependencies" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess_Module-primary.d",
+    "diagnostics" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess_Module-primary.dia",
+    "objc-header" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess-Swift.h",
+    "swiftdoc" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess.swiftdoc",
+    "swiftmodule" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess.swiftmodule",
+    "swiftsourceinfo" : "/Users/lukekist/BrowserTerminal/.build/apple/Intermediates.noindex/Subprocess.build/Release/Subprocess_Module.build/Objects-normal/x86_64/Subprocess.swiftsourceinfo"
+  }
+}

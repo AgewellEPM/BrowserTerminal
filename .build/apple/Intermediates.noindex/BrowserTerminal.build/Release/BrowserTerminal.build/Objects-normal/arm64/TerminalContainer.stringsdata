@@ -1,0 +1,16 @@
+{
+  "source": "/Users/lukekist/BrowserTerminal/Sources/BrowserTerminal/Modules/Terminal/Components/TerminalContainer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No terminal session",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 30
+        }
+      }
+    ]
+  },
+  "version": 1
+}
